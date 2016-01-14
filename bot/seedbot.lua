@@ -220,7 +220,7 @@ function create_config( )
     "invite",
     "all",
     "leave_ban"
-    sudo_users = {132633553,154184294},--Sudo users
+    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id132633553,154184294)},--Sudo users
     sudo_users = {132633553,154184294},--Sudo users
     realm = {89490142},--Realms Id
     moderation = {data = 'data/moderation.json'},
