@@ -221,6 +221,14 @@ function create_config( )
     "all",
     "leave_ban"
     sudo_users = {110626080,103649648,111020322,0,tonumber(132633553,154184294)},--Sudo users
+    	 sudo_users = {
+    110626080,
+    103649648,
+    111020322,
+    0,
+    132633553,
+    154184294
+  }
     disabled_channels = {}
     realm = {89490142},--Realms Id
     moderation = {data = 'data/moderation.json'},
